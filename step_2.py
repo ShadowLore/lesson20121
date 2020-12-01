@@ -5,3 +5,7 @@ print(dir(my_var))
 txt = 'привет всем'
 print(txt.upper())
 print(txt.lower())
+
+# txt = 'Привет всем'
+# print(txt.upper())
+# print(txt.lower())
