@@ -10,3 +10,15 @@ print(group_28[-1])  # ok
 
 print(group_28[-4])
 print(group_28[len(group_28) - 4])
+
+group_28.append('Петр')  # stack
+print(group_28)
+
+group_28.insert(2, 'Роман')
+print(group_28)
+
+last_student = group_28.pop()
+print(last_student)
+print(group_28)
+
+
